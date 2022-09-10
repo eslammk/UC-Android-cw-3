@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">جمعية الإسلام الخيرية</string>
+    <string name="title">جمعية الإسلام الخيرية</string>
+    <string name="welcome">ترحب بكم</string>
+
+    <string name="name">اسم العميل</string>
+    <string name="age">العمر</string>
+    <string name="data"> الرجاء ادخال البيانات التالية : </string>
+    <string name="next">التالي</string>
+
+    <string name="yourdata"> بيانات المتبرع : </string>
+    <string name="username"> الاسم : </string>
+    <string name="yourage"> العمر : </string>
+
+
+
+</resources>
